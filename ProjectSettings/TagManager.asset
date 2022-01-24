@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - respawn
+  - finish
+  - editoronly
+  - maincamera
+  - plyaer
+  - gamecontroller
+  - flapbutton
+  - background
+  - ground
+  - pipe
+  - pipeholder
+  - cube2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - bgcollector
+  - background
+  - ground
+  - plyaer
+  - pipe
+  - pipe collector
+  - pipeholder
+  - cube 2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 497355591
+    locked: 0
+  - name: ground
+    uniqueID: 3956243859
+    locked: 0
+  - name: pipe
+    uniqueID: 1669975149
+    locked: 0
+  - name: bird
+    uniqueID: 3952969465
+    locked: 0
+  - name: canvas
+    uniqueID: 845770501
+    locked: 0
+  - name: cube 2
+    uniqueID: 4033066281
+    locked: 0
